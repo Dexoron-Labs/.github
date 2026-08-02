@@ -1,39 +1,24 @@
-# 👋 Добро пожаловать в Dexoron Studio!
+# Dexoron Labs
 
-Мы — группа энтузиастов-разработчиков, которые увлечены созданием различных проектов и изучением новых технологий.
+We build tools we personally wanted to exist — systems software, small games, and web/UI projects, built to last and to be used.<br/>
 
-## 🚀 О нас
+## What we build
 
-- 💻 Создаем личные проекты для обучения и развития
-- 🌱 Изучаем веб-разработку и другие направления программирования
-- 🎨 Экспериментируем с дизайном и пользовательским интерфейсом
-- 📚 Постоянно учимся чему-то новому
+### 🛠️ [DCR](https://dcr-tool.ru)
+Cargo-inspired cross-platform build and dependency manager for C/C++, written in Rust. Distributed via AUR, Homebrew, and the Dexoron Packages registry.<br/>
 
-## 🛠️ Технологии, с которыми работаем
+### 🎮 [Games](https://games.dexoron.su)
+Small games built in Godot 4, with web, Android, and desktop exports.<br/>
 
-- **Frontend**: HTML, CSS, JS, ReactJS, TailwindCSS
-- **Инструменты сборки**: Vite
-- **Backend**: Python, FastAPI
-- **Дизайн**: Figma
-- **Инструменты**: Git, VS Code, Linux
+## How we work
 
-## 📈 Наши цели
+- **Open source first.** Most of what we build is public from day one.<br/>
+- **Built out of need.** Every project starts as a problem we ran into ourselves.<br/>
+- **Small and direct.** No bureaucracy — just people shipping things they care about.<br/>
 
-- Улучшать навыки программирования через практику
-- Создавать полезные и интересные проекты
-- Делиться знаниями и опытом с сообществом
-- Развиваться в области веб-разработки
+## Links
 
-## 🤝 Сотрудничество
-
-Мы открыты для:
-- Обратной связи по нашим проектам
-- Предложений по улучшению
-- Совместной работы над интересными идеями
-- Обмена опытом с другими разработчиками
-
-## 📫 Связаться с нами
-
-Если у вас есть вопросы или предложения, не стесняйтесь создавать issues в наших репозиториях или связываться с нами напрямую в телеграмме!
-
-Наш ТГ: <позже будет ссылка>
+**Website:** [dexoron.su](https://dexoron.su)<br/>
+**GitHub:** [github.com/Dexoron-Labs](https://github.com/Dexoron-Labs)<br/>
+**GitLab:** [gitlab.com/dexoron-labs](https://gitlab.com/dexoron-labs)<br/>
+**Contact:** main@dexoron.su<br/>
